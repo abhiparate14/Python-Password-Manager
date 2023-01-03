@@ -13,5 +13,7 @@ the newly generated passaword is automatically copied in the clipboard
 
 
 When ADD button is pressed a validation check occures to check if all the fields are filled and appropriate message or alert is displayed
+
+
 ![image](https://user-images.githubusercontent.com/74175413/210432297-b8fa1e44-b59b-4ed4-99da-034a2639dea4.png)
 ![image](https://user-images.githubusercontent.com/74175413/210432366-5e7751e3-cdb5-435a-b69b-98bdc416af45.png)
